@@ -1,6 +1,6 @@
 # sena
 
-Ya que suelo realizar algunos cursos en el sena, la idea es tener todo sentralizado en una sola carpeta para faciliitar un facil acceso o agilisar las consultass 
+Ya que suelo realizar algunos cursos en el SENA, la idea es tener todo Centralizado en una sola carpeta para facilitar el acceso o agilizar las consultas.
 
 
 

@@ -126,7 +126,7 @@ $$\text{Sujeto} + \text{Verbo de movimiento} + \text{Lugar}$$
 * He **visits** the clothing store.
 * She **goes to** the supermarket.
 
-### 2. Expresiones de precios - *How much is it?*
+### 2. Expresiones de precios - *How much is it?*  /haʊ mʌtʃ ɪz ɪt/
 
 #### Preguntar por precios
 

@@ -1,8 +1,8 @@
 # English Does Work - Level 1.
 
-● Código del programa de formación: 51240087.
-● Competencia:
-- 240202501. Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales según los criterios establecidos por el Marco Común Europeo de referencia para las lenguas.
+- ● Código del programa de formación: 51240087.
+- ● Competencia:
+- 240202501 Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales según los criterios establecidos por el Marco Común Europeo de referencia para las lenguas.
 ● Resultados de aprendizaje:
 - 240202501-01. Identificar información básica a partir de expresiones de uso frecuente y
 vocabulario.
@@ -19,7 +19,7 @@ Esta evidencia está centrada en que comprenda el vocabulario y expresiones en c
 
 ### Evidencia: Foro. Let's meet. AA1-EV02
 
-A partir de los aspectos de información personal, de manera argumentada y creativa, responder la siguiente intervención:
+Aparticipar en el foro denominado: Foro. Let's meet. AA1-EV02. y a partir de los aspectos de información personal, de manera argumentada y creativa, responder la siguiente intervención:
 ⮚ Intervención.
 Durante la primera intervención, debe realizar un esquema con algunas ideas. A partir de él, puede ir desarrollando su presentación e ir sabiendo qué vocabulario y expresiones necesita. Es decir, piense de manera ordenada qué se puede decir sobre usted: o Nombre / Name (first name, last name) o Edad / Age o Ciudad de nacimiento / City of birth o Ciudad de residencia / City of residence o Profesión o estudios / Profession or studies o Intereses en su tiempo libre / Interests in your free time.
 Ahora, realice su primera participación, organizando las oraciones y logrando construir un párrafo con su presentación.
@@ -51,3 +51,4 @@ o Diapositivas de todas las actividades que realiza durante su rutina diaria, ac
 o Diapositivas con frases, textos cortos y elementos gráficos de algunas actividades adicionales que desempeña o realiza de forma aleatoria, como, por ejemplo, los fines de semana o en su campo laboral y/o personal.
 
 Evidencia: Video presentación. AA1-EV04. Durante la siguiente evidencia, deberá escoger a un miembro de su familia o a un amigo para presentarlo por medio de un video corto activando su cámara web y, de forma oral, mencionar características personales sobre edad, nacionalidad, lugar de residencia, pasatiempos y alguna otra información relevante sobre las actividades cotidianas que le agrada o no le agrada realizar a su familiar o amigo.
+presente entre 4 y 7 diapositivas, donde se incluyan los siguientes elementos: o Diapositiva de portada (datos básicos del aprendiz, nombre del curso, instructor y nombre de la actividad). o Diapositivas de datos del personaje seleccionado (nombre completo, edad, fecha de cumpleaños, ocupación, actividades de tiempo libre), acompañadas de imágenes, frases, textos cortos y elementos gráficos que le permitan hablar durante la presentación. Estructura del video con cámara web: cuando grabe el video, tenga en cuenta que las fotos, imágenes y textos que use en las diapositivas deben ser un apoyo visual para denotar su pronunciación y su aprendizaje inicial del uso del inglés.
